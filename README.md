@@ -10,6 +10,7 @@ Curso Profesional de Git y Github
 *El flujo de trabajo en Github
 *El verdadero amor por las buenas practivas
 *Creado por mi bien chido
+*Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [a ver el curso] (https://algun/link)
 
